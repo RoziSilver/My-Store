@@ -1,0 +1,205 @@
+body{
+    background: rgb(179, 178, 178);
+}
+.navigation{
+    width: 2000px;
+    height: 105px;
+    background-color: rgb(255, 254, 254);
+    margin-top: -103px;
+    margin-left: -10px;
+}
+ul li{
+    list-style: none;
+    display: inline-block;
+    margin-left: 1350px;
+    margin-top: 40px;
+    margin-right: 50px; 
+}
+.spann{
+    font-family: 'Dancing Script', cursive;
+    font-family: 'M PLUS 1', sans-serif;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Nanum Gothic', sans-serif;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 20px;
+}
+input[type=search]{
+    border-radius: 20px;
+    width: 950px;
+    text-align: center;
+    height: 30px;
+    margin-left: 300px;
+    margin-top: -100px;
+    background: rgb(255, 216, 110);
+}
+a{
+    color: black;
+}
+#Armenia{
+    height: 30px;
+    margin-top: -20px;
+    border-radius: 20px;
+    width: 30px;
+}
+#rusastan{
+    height: 30px;
+    margin-top: -20px;
+    border-radius: 20px;
+    width: 30px;
+}
+#America{
+    height: 30px;
+    margin-top: -20px;
+    border-radius: 20px;
+    width: 30px;
+}
+.nav{
+    background: white;
+    margin-right: 500px;
+    width: 200px;
+    height: 700px;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 20px;
+}
+.notbook{
+    width: 210px;
+    height: 100px;
+    border-radius: 15px;
+    background: rgb(255, 255, 255);
+    margin-left: 250px;
+    margin-top: -600px;
+
+}
+#aser{
+    height: 30px;
+    margin-left: 50px;
+    margin-top: 40px;
+}
+.notbook1{
+    background: #fff;
+    border-radius: 15px;
+    width: 210px;
+    height: 100px;
+    margin-left: 490px;
+    margin-top: -100px;
+}
+.misha{
+    height: 50px;
+    margin-left: 80px;
+    margin-top: 20px;
+}
+.mish{
+    height: 70px;
+    margin-left: 65px;
+    margin-top: 18px;
+}
+.notbook2{
+    background: #fff;
+    border-radius: 15px;
+    width: 210px;
+    height: 100px;
+    margin-left: 730px;
+    margin-top: -100px; 
+}
+.Misha{
+    height: 70px;
+    margin-left: 70px;
+    margin-top: 15px;
+}
+.notbook3{
+    background: #fff;
+    border-radius: 15px;
+    width: 210px;
+    height: 100px;
+    margin-left: 970px;
+    margin-top: -100px; 
+}
+.notbook4{
+    background: #fff;
+    border-radius: 15px;
+    width: 210px;
+    height: 100px;
+    margin-left: 250px;
+    margin-top: 40px;  
+}
+.MIsha{
+    height: 40px;
+    margin-left: 40px;
+    margin-top: 25px;
+}
+.notbook5{
+    background: #fff;
+    border-radius: 15px;
+    width: 210px;
+    height: 100px;
+    margin-left: 490px;
+    margin-top: -100px;  
+}
+.MISHA{
+    height: 17px;
+    margin-left: 37px;
+    margin-top: 40px;
+}
+.notbook6{
+    background: #fff;
+    border-radius: 15px;
+    width: 210px;
+    height: 100px;
+    margin-left: 750px;
+    margin-top: -100px;  
+}
+.mIsHa{
+    height: 26px;
+    margin-left: 26px;
+    margin-top: 30px;
+}
+.notbook7{
+    background: #fff;
+    border-radius: 15px;
+    width: 210px;
+    height: 100px;
+    margin-left: 1007px;
+    margin-top: -100px;  
+}
+.MiShA{
+    height: 20px;
+    margin-left: 30px;
+    margin-top: 35px;
+}
+hr{
+    width: 1000px;
+    margin-left: 245px;
+}
+.apple1{
+    height: 250px;
+    margin-left: 55px;
+    margin-top: 50px;
+}
+.appli-hamar{
+    background: rgb(255, 255, 255);
+    border-radius: 15px;
+    width: 410px;
+    height: 400px;
+    margin-left: 250px;
+    margin-top: 80px; 
+}
+select{
+    width: 200px;
+    height: 30px;
+    text-align: center;
+    border: none;
+    background-color: rgb(228, 228, 228);
+}
+.spon{
+    margin-left: 150px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.bt{
+    border-radius: 20px;
+    height: 30px;
+    width: 100px;
+    margin-left: 150px;
+    background-color: rgb(35, 112, 255);
+    color: #fff;
+}
